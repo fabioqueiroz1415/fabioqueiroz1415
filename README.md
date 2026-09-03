@@ -3,8 +3,8 @@
 # `>_ Fábio Queiroz`
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=900&center=true&vCenter=true&width=600&lines=criando+coisas+que+provavelmente+nem+precisavam+existir...;...mas+ainda+bem+que+existem.;python+%7C+docker+%7C+backend+%7C+experimentos"
-  alt="Typing SVG"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=900&center=true&vCenter=true&width=750&lines=criando+coisas+que+provavelmente+nem+precisavam+existir...;...mas+ainda+bem+que+existem.;python+%7C+docker+%7C+backend+%7C+experimentos"
+alt="Typing SVG"
 />
 
 </div>
